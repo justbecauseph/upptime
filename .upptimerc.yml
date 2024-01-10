@@ -14,7 +14,7 @@ sites:
     maxResponseTime: 3000
   - name: Rexulili Blog
     url: https://blog.rxl.gg
-    maxResponseTime: 3000
+    maxResponseTime: 2000
   - name: JustBecause
     url: https://justbecause.ph
     maxResponseTime: 3000
