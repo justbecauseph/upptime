@@ -22,19 +22,19 @@
     "url": "https://aljoetravel.com",
     "icon": "https://icons.duckduckgo.com/ip3/aljoetravel.com.ico",
     "slug": "aljoetravel",
-    "status": "down",
-    "uptime": "32.90%",
-    "uptimeDay": "32.90%",
-    "uptimeWeek": "32.90%",
-    "uptimeMonth": "32.90%",
-    "uptimeYear": "32.90%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "status": "up",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 305,
+    "timeDay": 305,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {
-      "2024-01-10": 19
+      "2024-01-10": 58
     }
   },
   {
