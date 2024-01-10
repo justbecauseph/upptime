@@ -18,6 +18,14 @@ sites:
   - name: JustBecause
     url: https://justbecause.ph
     maxResponseTime: 3000
+  - name: R5 Reloaded Sydney by rexulili
+    check: "tcp-ping"
+    url: flowstate-au.justbecause.ph
+    port: 37001
+  - name: R5 Reloaded Singapore by rexulili
+    check: "tcp-ping"
+    url: flowstate.justbecause.ph
+    port: 37000
 assignees:
   - awkwardusername
 status-website:
