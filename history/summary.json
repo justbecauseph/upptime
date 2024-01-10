@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2884,
-    "timeDay": 2884,
-    "timeWeek": 2884,
-    "timeMonth": 2884,
-    "timeYear": 2884,
+    "time": 2447,
+    "timeDay": 2447,
+    "timeWeek": 2447,
+    "timeMonth": 2447,
+    "timeYear": 2447,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aljoetravel.com.ico",
     "slug": "aljoetravel",
     "status": "down",
-    "uptime": "6.86%",
-    "uptimeDay": "6.86%",
-    "uptimeWeek": "6.86%",
-    "uptimeMonth": "6.86%",
-    "uptimeYear": "6.86%",
-    "time": 134,
-    "timeDay": 134,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "uptime": "32.90%",
+    "uptimeDay": "32.90%",
+    "uptimeWeek": "32.90%",
+    "uptimeMonth": "32.90%",
+    "uptimeYear": "32.90%",
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 19
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 889,
-    "timeWeek": 889,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "time": 1068,
+    "timeDay": 1068,
+    "timeWeek": 1068,
+    "timeMonth": 1068,
+    "timeYear": 1068,
     "dailyMinutesDown": {}
   }
 ]
