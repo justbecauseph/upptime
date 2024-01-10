@@ -27,8 +27,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: JustBecause Status
-  introTitle: "Made from **Upptime**, the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Websites managed by JustBecause - contact hello <at> justbecause <dot> ph
+  introTitle: "Managed by **JustBecause**"
+  introMessage: "contact: hello at justbecause dot ph"
   navbar:
     - title: Status
       href: /
