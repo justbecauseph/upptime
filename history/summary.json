@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aljoetravel.com.ico",
     "slug": "aljoetravel",
     "status": "up",
-    "uptime": "48.74%",
-    "uptimeDay": "48.74%",
-    "uptimeWeek": "48.74%",
-    "uptimeMonth": "48.74%",
-    "uptimeYear": "48.74%",
+    "uptime": "59.60%",
+    "uptimeDay": "59.60%",
+    "uptimeWeek": "59.60%",
+    "uptimeMonth": "59.60%",
+    "uptimeYear": "59.60%",
     "time": 505,
     "timeDay": 505,
     "timeWeek": 505,
@@ -78,17 +78,19 @@
     "url": "https://justbecause.ph",
     "icon": "https://icons.duckduckgo.com/ip3/justbecause.ph.ico",
     "slug": "just-because",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 905,
     "timeDay": 905,
     "timeWeek": 905,
     "timeMonth": 905,
     "timeYear": 905,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   }
 ]
