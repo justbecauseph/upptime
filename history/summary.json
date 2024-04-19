@@ -6,7 +6,7 @@
     "slug": "coffeenow",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "17.54%",
+    "uptimeDay": "18.03%",
     "uptimeWeek": "77.36%",
     "uptimeMonth": "94.79%",
     "uptimeYear": "98.41%",
@@ -37,7 +37,7 @@
     "time": 369,
     "timeDay": 335,
     "timeWeek": 333,
-    "timeMonth": 339,
+    "timeMonth": 340,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2024-04-15": 9,
@@ -58,7 +58,7 @@
     "time": 58,
     "timeDay": 59,
     "timeWeek": 64,
-    "timeMonth": 53,
+    "timeMonth": 54,
     "timeYear": 58,
     "dailyMinutesDown": {}
   },
