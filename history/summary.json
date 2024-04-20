@@ -6,7 +6,7 @@
     "slug": "coffeenow",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "96.71%",
+    "uptimeDay": "97.20%",
     "uptimeWeek": "77.36%",
     "uptimeMonth": "94.79%",
     "uptimeYear": "98.43%",
@@ -69,9 +69,9 @@
     "slug": "rexulili-blog",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "79.28%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.80%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.79%",
     "time": 63,
     "timeDay": 53,
@@ -79,7 +79,7 @@
     "timeMonth": 56,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2024-04-20": 298
+      "2024-04-20": 305
     }
   },
   {
