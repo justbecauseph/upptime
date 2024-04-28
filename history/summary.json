@@ -12,7 +12,7 @@
     "uptimeYear": "98.55%",
     "time": 794,
     "timeDay": 833,
-    "timeWeek": 755,
+    "timeWeek": 756,
     "timeMonth": 733,
     "timeYear": 794,
     "dailyMinutesDown": {
@@ -67,11 +67,11 @@
     "url": "https://blog.rxl.gg",
     "icon": "https://icons.duckduckgo.com/ip3/blog.rxl.gg.ico",
     "slug": "rexulili-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "99.55%",
     "time": 62,
     "timeDay": 54,
@@ -79,6 +79,7 @@
     "timeMonth": 57,
     "timeYear": 62,
     "dailyMinutesDown": {
+      "2024-04-29": 1,
       "2024-04-20": 711
     }
   },
