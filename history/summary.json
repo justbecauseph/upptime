@@ -6,7 +6,7 @@
     "slug": "coffeenow",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "66.54%",
+    "uptimeDay": "67.73%",
     "uptimeWeek": "92.55%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.09%",
@@ -33,7 +33,7 @@
     "slug": "aljoetravel",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "66.58%",
+    "uptimeDay": "67.77%",
     "uptimeWeek": "92.55%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "99.76%",
@@ -75,8 +75,8 @@
     "status": "up",
     "uptime": "99.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.07%",
-    "uptimeMonth": "96.10%",
+    "uptimeWeek": "82.90%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "99.29%",
     "time": 71,
     "timeDay": 73,
@@ -84,7 +84,7 @@
     "timeMonth": 98,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-09-03": 535,
+      "2024-09-03": 553,
       "2024-09-02": 1171,
       "2024-04-20": 711
     }
