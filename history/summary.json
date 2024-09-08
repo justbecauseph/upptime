@@ -63,7 +63,7 @@
     "time": 70,
     "timeDay": 81,
     "timeWeek": 85,
-    "timeMonth": 99,
+    "timeMonth": 98,
     "timeYear": 70,
     "dailyMinutesDown": {}
   },
@@ -75,8 +75,8 @@
     "status": "up",
     "uptime": "96.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.12%",
-    "uptimeMonth": "77.48%",
+    "uptimeWeek": "2.05%",
+    "uptimeMonth": "77.46%",
     "uptimeYear": "96.97%",
     "time": 72,
     "timeDay": 81,
@@ -84,7 +84,7 @@
     "timeMonth": 94,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-09-09": 56,
+      "2024-09-09": 63,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
