@@ -4,9 +4,9 @@
     "url": "https://coffeenow.ph",
     "icon": "https://icons.duckduckgo.com/ip3/coffeenow.ph.ico",
     "slug": "coffeenow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
@@ -16,6 +16,7 @@
     "timeMonth": 870,
     "timeYear": 770,
     "dailyMinutesDown": {
+      "2025-01-20": 0,
       "2024-12-13": 17,
       "2024-10-19": 348,
       "2024-09-02": 751,
@@ -42,7 +43,7 @@
     "timeDay": 311,
     "timeWeek": 369,
     "timeMonth": 345,
-    "timeYear": 358,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2024-10-19": 349,
       "2024-09-02": 751,
