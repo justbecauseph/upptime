@@ -1,7 +1,7 @@
 url: https://rxl.gg
-status: up
-code: 200
-responseTime: 65
-lastUpdated: 2025-10-16T23:11:03.019Z
+status: degraded
+code: 522
+responseTime: 19325
+lastUpdated: 2025-10-17T18:17:52.996Z
 startTime: 2024-01-10T02:00:09.331Z
 generator: Upptime <https://github.com/upptime/upptime>
