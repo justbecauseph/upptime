@@ -14,7 +14,7 @@
     "timeDay": 66,
     "timeWeek": 66,
     "timeMonth": 71,
-    "timeYear": 1483,
+    "timeYear": 1498,
     "dailyMinutesDown": {
       "2025-09-29": 877,
       "2025-09-18": 19,
@@ -30,19 +30,19 @@
     "url": "https://aljoetravel.com",
     "icon": "https://icons.duckduckgo.com/ip3/aljoetravel.com.ico",
     "slug": "aljoetravel",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 435,
-    "timeDay": 2854,
-    "timeWeek": 1478,
-    "timeMonth": 718,
-    "timeYear": 451,
+    "time": 441,
+    "timeDay": 2996,
+    "timeWeek": 1663,
+    "timeMonth": 791,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-11-04": 10,
+      "2025-11-05": 0,
       "2025-10-18": 46,
       "2025-08-28": 12
     }
@@ -62,7 +62,7 @@
     "timeDay": 84,
     "timeWeek": 76,
     "timeMonth": 630,
-    "timeYear": 142,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2025-04-29": 15,
       "2024-12-08": 185,
@@ -84,7 +84,7 @@
     "timeDay": 551,
     "timeWeek": 452,
     "timeMonth": 414,
-    "timeYear": 142,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2025-08-10": 105
     }
