@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.justbecause.ph
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/justbecauseph/upptime/refs/heads/master/assets/justbecauseph.png
   name: JustBecause Status
   introTitle: "Managed by **JustBecause**"
   introMessage: "contact: hello at justbecause dot ph"
