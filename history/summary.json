@@ -55,9 +55,9 @@
     "slug": "rexulili",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 145,
     "timeDay": 1708,
@@ -65,7 +65,6 @@
     "timeMonth": 228,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-11-18": 3,
       "2025-04-29": 15,
       "2024-12-08": 185,
       "2024-12-07": 1005
