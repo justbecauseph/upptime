@@ -6,6 +6,11 @@ sites:
   - name: Coffeenow
     url: https://coffeenow.ph
     maxResponseTime: 3000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 403
   - name: Aljoetravel
     url: https://aljoetravel.com
     maxResponseTime: 3000
