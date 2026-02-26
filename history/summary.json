@@ -16,15 +16,16 @@
     "timeMonth": 444,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2025-11-21": 525,
-      "2025-11-20": 320,
+      "2025-11-21": 45,
+      "2025-11-20": 800,
       "2025-11-18": 145,
-      "2025-09-29": 877,
+      "2025-09-29": 602,
+      "2025-09-28": 275,
       "2025-09-18": 19,
       "2025-08-26": 38,
-      "2025-08-23": 993,
+      "2025-08-23": 513,
       "2025-08-22": 1440,
-      "2025-08-21": 419
+      "2025-08-21": 899
     }
   },
   {
@@ -45,9 +46,8 @@
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-11-18": 130,
-      "2025-11-08": 15,
-      "2025-11-07": 0,
-      "2025-10-18": 46,
+      "2025-11-07": 16,
+      "2025-10-17": 46,
       "2025-08-28": 12
     }
   },
@@ -56,19 +56,20 @@
     "url": "https://rxl.gg",
     "icon": "https://icons.duckduckgo.com/ip3/rxl.gg.ico",
     "slug": "rexulili",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 262,
-    "timeDay": 314,
-    "timeWeek": 217,
-    "timeMonth": 294,
+    "time": 263,
+    "timeDay": 337,
+    "timeWeek": 236,
+    "timeMonth": 297,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2026-02-26": 16,
+      "2026-02-26": 8,
+      "2026-02-25": 16,
       "2025-11-18": 128,
       "2025-04-29": 15
     }
@@ -86,7 +87,7 @@
     "uptimeYear": "99.96%",
     "time": 218,
     "timeDay": 2625,
-    "timeWeek": 635,
+    "timeWeek": 658,
     "timeMonth": 380,
     "timeYear": 287,
     "dailyMinutesDown": {
