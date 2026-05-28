@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Coffeenow",
+    "url": "https://coffeenow.ph",
+    "icon": "https://icons.duckduckgo.com/ip3/coffeenow.ph.ico",
+    "slug": "coffeenow",
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.09%",
+    "time": 1109,
+    "timeDay": 82,
+    "timeWeek": 78,
+    "timeMonth": 91,
+    "timeYear": 1211,
+    "dailyMinutesDown": {
+      "2025-11-21": 45,
+      "2025-11-20": 800,
+      "2025-11-18": 145,
+      "2025-09-29": 602,
+      "2025-09-28": 275,
+      "2025-09-18": 19,
+      "2025-08-26": 38,
+      "2025-08-23": 513,
+      "2025-08-22": 1440,
+      "2025-08-21": 899
+    }
+  },
+  {
+    "name": "Aljoetravel",
+    "url": "https://aljoetravel.com",
+    "icon": "https://icons.duckduckgo.com/ip3/aljoetravel.com.ico",
+    "slug": "aljoetravel",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
+    "time": 860,
+    "timeDay": 590,
+    "timeWeek": 595,
+    "timeMonth": 602,
+    "timeYear": 1038,
+    "dailyMinutesDown": {
+      "2025-11-18": 130,
+      "2025-11-07": 16,
+      "2025-10-17": 46,
+      "2025-08-28": 12
+    }
+  },
+  {
+    "name": "Rexulili",
+    "url": "https://rxl.gg",
+    "icon": "https://icons.duckduckgo.com/ip3/rxl.gg.ico",
+    "slug": "rexulili",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 296,
+    "timeDay": 320,
+    "timeWeek": 319,
+    "timeMonth": 338,
+    "timeYear": 388,
+    "dailyMinutesDown": {
+      "2026-02-25": 16,
+      "2025-11-18": 128
+    }
+  },
+  {
+    "name": "JustBecause",
+    "url": "https://justbecause.ph",
+    "icon": "https://icons.duckduckgo.com/ip3/justbecause.ph.ico",
+    "slug": "just-because",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.95%",
+    "time": 318,
+    "timeDay": 773,
+    "timeWeek": 371,
+    "timeMonth": 322,
+    "timeYear": 393,
+    "dailyMinutesDown": {
+      "2026-04-27": 16,
+      "2025-12-01": 8,
+      "2025-11-18": 119,
+      "2025-08-10": 105
+    }
+  }
+]
