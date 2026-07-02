@@ -48,20 +48,20 @@
     "url": "https://portal.lampas.town",
     "icon": "https://icons.duckduckgo.com/ip3/portal.lampas.town.ico",
     "slug": "lampas-portal",
-    "status": "degraded",
-    "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.88%",
-    "time": 2385,
-    "timeDay": 12303,
-    "timeWeek": 6291,
-    "timeMonth": 2729,
-    "timeYear": 2385,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.87%",
+    "time": 2341,
+    "timeDay": 10581,
+    "timeWeek": 5826,
+    "timeMonth": 2669,
+    "timeYear": 2341,
     "dailyMinutesDown": {
       "2026-06-11": 60,
-      "2026-07-02": 0
+      "2026-07-02": 7
     }
   }
 ]
