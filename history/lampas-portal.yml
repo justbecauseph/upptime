@@ -1,7 +1,7 @@
 url: https://portal.lampas.town
-status: up
-code: 200
-responseTime: 411
-lastUpdated: 2026-08-09T23:22:07.183Z
+status: degraded
+code: 500
+responseTime: 5095
+lastUpdated: 2026-08-10T03:24:42.400Z
 startTime: 2026-05-28T18:56:18.464Z
 generator: Upptime <https://github.com/upptime/upptime>
