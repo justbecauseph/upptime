@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 726,
-    "timeDay": 359,
-    "timeWeek": 350,
-    "timeMonth": 416,
-    "timeYear": 726,
+    "time": 724,
+    "timeDay": 527,
+    "timeWeek": 369,
+    "timeMonth": 421,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-11-18": 128,
       "2026-02-25": 16
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 609,
-    "timeDay": 643,
-    "timeWeek": 745,
-    "timeMonth": 734,
-    "timeYear": 609,
+    "time": 612,
+    "timeDay": 978,
+    "timeWeek": 770,
+    "timeMonth": 759,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2025-11-18": 119,
       "2025-12-01": 8,
@@ -49,20 +49,19 @@
     "slug": "lampas-portal",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1560,
-    "timeDay": 447,
-    "timeWeek": 456,
-    "timeMonth": 489,
-    "timeYear": 1560,
+    "time": 1554,
+    "timeDay": 468,
+    "timeWeek": 463,
+    "timeMonth": 485,
+    "timeYear": 1554,
     "dailyMinutesDown": {
       "2026-06-11": 60,
       "2026-07-02": 71,
-      "2026-08-10": 60,
-      "2026-10-22": 8
+      "2026-08-10": 60
     }
   }
 ]
